@@ -1,8 +1,10 @@
 # Hey There! 👋
 
-I'm **Kim Chanthon (ThornieDev)** — a passionate developer currently in my 4th year at the **Royal University of Phnom Penh**, pursuing a **Bachelor’s degree in Computer Science & Engineering**.  
+I'm **Kim Chanthon (ThornieDev)** — a passionate developer currently in my 4th year at the **Royal University of Phnom Penh**, pursuing a **Bachelor’s degree in Computer Science & Engineering** and Fullstack Development at **Institute of Science and
+Technology Advanced
+Development**
 
-I have a strong interest in **Software Engineering, DevOps, Programming, and Software Development**. My focus is on building efficient, scalable systems and continuously learning new technologies to improve my craft.  
+I have a strong interest in **Software Engineering, DevOps, Software Development and LLM**. My focus is on building efficient, scalable systems and continuously learning new technologies to improve my craft.  
 
 In addition to my studies, I enjoy exploring modern development practices, experimenting with tools that streamline workflows, and contributing to projects that create real-world impact. 🚀
 
@@ -16,7 +18,7 @@ In addition to my studies, I enjoy exploring modern development practices, exper
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
 
   <!-- Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
@@ -25,7 +27,7 @@ In addition to my studies, I enjoy exploring modern development practices, exper
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" /> -->
-  <img src="assets/icons/ExpressJS-Dark.svg" width="40" />
+  <!--<img src="assets/icons/ExpressJS-Dark.svg" width="40" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
 
   <!-- Databases & Cloud -->
@@ -42,14 +44,14 @@ In addition to my studies, I enjoy exploring modern development practices, exper
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /> -->
   <img src="assets/icons/Github-Dark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" /> -->
 </p>
 
 
 ### 🚀 Skills & Expertise
 - **Frontend Development** → Building responsive and user-friendly interfaces  
-- **Backend Development** → RESTful APIs, scalable server-side systems  
-- **DevOps & Cloud** → CI/CD automation, cloud deployment (AWS, VPS), containerization  
+- **Backend Development** → RESTful APIs, scalable, server-side systems  
+- **DevOps & Cloud** → CI/CD, cloud deployment (AWS, VPS), containerization  
 - **Software Engineering** → System architecture design, requirements analysis, and process planning  
 <!-- - **AI & Emerging Tech** → Applying AI/ML concepts (e.g., fine-tuning, prompt engineering)   -->
 - **Collaboration** → Agile teamwork, problem-solving, testing, and project delivery  
