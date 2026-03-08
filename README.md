@@ -53,7 +53,6 @@ In addition to my studies, I enjoy exploring modern development practices, exper
 - **Backend Development** → RESTful APIs, scalable, server-side systems  
 - **DevOps & Cloud** → CI/CD, cloud deployment (AWS, VPS), containerization  
 - **Software Engineering** → System architecture design, requirements analysis, and process planning  
-<!-- - **AI & Emerging Tech** → Applying AI/ML concepts (e.g., fine-tuning, prompt engineering)   -->
 - **Collaboration** → Agile teamwork, problem-solving, testing, and project delivery  
 
 ---
@@ -66,7 +65,7 @@ In addition to my studies, I enjoy exploring modern development practices, exper
 ---
 
 ### 🌍 Connect with Me
-- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/your-username)
-- 📘 Facebook: [My Facebook](https://www.facebook.com/your-username)
+- 💼 LinkedIn: [My LinkedIn](https://web.facebook.com/ny.bee.313/)
+- 📘 Facebook: [My Facebook](https://web.facebook.com/ny.bee.313/)
 - 💬 Telegram: [Message me on Telegram](https://t.me/Thornkim_21)
 - 📧 Email: `kimchanthon46@gmail.com`
