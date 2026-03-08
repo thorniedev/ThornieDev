@@ -59,13 +59,10 @@ In addition to my studies, I enjoy exploring modern development practices, exper
 ---
 
 ### 🚀 Featured Projects
-- [ 🔗 API Smart Home Microservice ](https://api-gateway.kdebit.shop) — A microservice-based API gateway for smart home automation.
-<!-- - [🔗 Task Manager API](https://github.com/ThornieDev/task-manager) — REST API with Node.js + MongoDB.
+- [🔗 Smart-Home-Microservice](https://api-gateway.kdebit.shop) — A microservice-based API gateway for smart home automation.
 - [🔗 Cool CLI Tool](https://github.com/ThornieDev/cool-cli) — A command-line tool written in Python. -->
-- [🔗 Portfolio] (https://kdebit.shop/) — A future for my Dashboard smart home system.
-<!-- - [🔗 Testing VeuJS] (https://kdebit.shop/) — A future for my Dashboard smart home system. -->
+- [🔗 Portfolio](https://kdebit.shop/) — A future for my Dashboard smart home system.
 - [🔗] Nothing 404 
-
 ---
 
 ### 🌍 Connect with Me
