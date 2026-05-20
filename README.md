@@ -4,7 +4,7 @@ I'm **Kim Chanthon (ThornieDev)** — a passionate developer currently in my 4th
 Technology Advanced
 Development**
 
-I have a strong interest in **Software Engineering, DevOps, Software Development and LLM**. My focus is on building efficient, scalable systems and continuously learning new technologies to improve my craft.  
+<!-- I have a strong interest in **Software Engineering, DevOps, Software Development and LLM**. My focus is on building efficient, scalable systems and continuously learning new technologies to improve my craft. -->
 
 In addition to my studies, I enjoy exploring modern development practices, experimenting with tools that streamline workflows, and contributing to projects that create real-world impact. 🚀
 
