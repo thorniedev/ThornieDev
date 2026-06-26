@@ -41,11 +41,11 @@ In addition to my studies, I enjoy exploring modern development practices, exper
 
 ---
 
-### 🚀 Featured Projects
-- [ 🔗 Smart-Home-Microservice ] (https://api-gateway.kdebit.shop) — A microservice-based API gateway for smart home automation.
-- [ 🔗 Cool CLI Tool ] (https://github.com/ThornieDev/cool-cli) — A command-line tool written in Python. -->
-- [ 🔗 Portfolio ] (https://kdebit.shop/) — A future for my Dashboard smart home system.
-- [ 🔗 ] Nothing 404 
+### 🚀 Projects experienced
+- [ 🔗 Smart-Home-Microservice ] (https://kdebit.shop) — A microservice-based API gateway for smart home automation.
+- [ 🔗 Portfolio ] (https://thornieportfolio.vercel.app/) — My portfolio.
+- [🔗 iCheck] (https://icheck.today) - The icheck System is an innovative digital solution designed to replace traditional paper-based attendance methods. Using QR code technology, it makes attendance faster, smarter, and more efficient for both students and teachers.
+- [ 🔗 ] Nothing 404
 ---
 
 ### 🌍 Connect with Me
