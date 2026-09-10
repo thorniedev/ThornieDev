@@ -1,5 +1,9 @@
 # Hey There! 👋
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/43299285/146223384-04341fcf-4769-4353-82b1-f3d78f7de611.gif" alt="image-coder"/>
+</p>
+
 I'm **Kim Chanthon (ThornieDev)** — a passionate developer currently in my 4th year at the **Royal University of Phnom Penh**, pursuing a **Bachelor’s degree in Computer Science & Engineering** and Fullstack Development at **Institute of Science and
 Technology Advanced
 Development**
@@ -9,10 +13,6 @@ Development**
 In addition to my studies, I enjoy exploring modern development practices, experimenting with tools that streamline workflows, and contributing to projects that create real-world impact. 🚀
 
 ---
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/43299285/146223384-04341fcf-4769-4353-82b1-f3d78f7de611.gif" alt="image-coder"/>
-</p>
 
 ### 🛠️ Languages & Tools
 <p>
