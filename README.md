@@ -1,16 +1,10 @@
-# Hey There! 👋
+# Hi! I'm Kim Chanthorn👋 — a passionate developer currently in my 4th year at the **Royal University of Phnom Penh**, pursuing a **Bachelor’s degree in Computer Science & Engineering** and Software Engineering at **Institute of Science and
+Technology Advanced
+Development**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/43299285/146223384-04341fcf-4769-4353-82b1-f3d78f7de611.gif" alt="image-coder"/>
 </p>
-
-I'm **Kim Chanthon (ThornieDev)** — a passionate developer currently in my 4th year at the **Royal University of Phnom Penh**, pursuing a **Bachelor’s degree in Computer Science & Engineering** and Fullstack Development at **Institute of Science and
-Technology Advanced
-Development**
-
-<!-- I have a strong interest in **Software Engineering, DevOps, Software Development and LLM**. My focus is on building efficient, scalable systems and continuously learning new technologies to improve my craft. -->
-
-In addition to my studies, I enjoy exploring modern development practices, experimenting with tools that streamline workflows, and contributing to projects that create real-world impact. 🚀
 
 ---
 
@@ -37,10 +31,10 @@ In addition to my studies, I enjoy exploring modern development practices, exper
 </p>
 
 
-### 🚀 Skills & Expertise
+### 🚀 Skills
 - **Frontend Development** → Building responsive and user-friendly interfaces  
-- **Backend Development** → RESTful APIs, scalable, server-side systems  
-- **DevOps & Cloud** → CI/CD, cloud deployment (AWS, VPS), containerization  
+- **Backend Development** → RESTful APIs, gRPC, scalable, Micro-services
+- **DevOps & Cloud** → CI/CD, cloud deployment, containerization  
 - **Software Engineering** → System architecture design, requirements analysis, and process planning  
 - **Collaboration** → Agile teamwork, problem-solving, testing, and project delivery  
 
